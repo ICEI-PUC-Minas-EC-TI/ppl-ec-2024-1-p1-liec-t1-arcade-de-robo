@@ -23,4 +23,5 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 As ferramentas utilizadas no projeto foram:
 
-- 
+- Arduino IDE
+- App Inventor
