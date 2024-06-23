@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este trabalho visa explorar a tecnologia Bluetooth para a criação e controle de robôs em um cenário de competição interativa. Utilizando placas ESP32, estabelecemos uma conexão entre dois robôs e diferentes controladores remotos: um smartphone e um controle arcade. O objetivo é permitir que crianças e adolescentes possam competir de maneira divertida e educativa, utilizando dispositivos eletrônicos físicos.
+A competição escolhida para este projeto é o desafio de estourar balões, onde cada robô é equipado com mecanismos específicos para executar essa tarefa. A interação via Bluetooth possibilita o controle preciso e em tempo real dos movimentos dos robôs, agregando um elemento de habilidade e estratégia à competição.
+Além de proporcionar entretenimento, este projeto tem como objetivo introduzir conceitos de eletrônica, programação e controle de dispositivos físicos de forma acessível e engajante. 
+Este trabalho se dirige especialmente a jovens interessados em tecnologia e competições que envolvam o uso de dispositivos eletrônicos. Ao longo deste documento, exploraremos os detalhes da implementação técnica, os desafios enfrentados durante o desenvolvimento e as potenciais aplicações educativas e recreativas de projetos similares.
 
 ## Problema
 
