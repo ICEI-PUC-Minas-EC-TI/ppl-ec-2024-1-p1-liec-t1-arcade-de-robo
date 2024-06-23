@@ -26,7 +26,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso trabalho consiste em fazer uma briga entre robos controlados por humanos atraves de um controle de arcade e um telefone, utilizando bluetooth. Cada robo tera um balao acoplado, e o objetivo do jogo e estourar o balao do carro inimigo. O carro que estourar o balao do outro primeiro, vence.
 
 # Código (do arduino ou esp32)
 
