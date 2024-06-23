@@ -1,25 +1,28 @@
-# TÍTULO DO PROJETO
+# BRIGA DE ROBOS  
 
-`CAMPUS/UNIDADE`
+`PUC Minas Unidade Praca da Liberdade`
 
-`CURSO`
+`Engenharia da Computacao`
 
-`SEMESTRE`
+`Primeiro Semestre`
 
-`DISCIPLINA`
+`Laboratorio de Introducao a Engenharia da Computacao`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bernardo Rodrigues Pereira
+* Pedro Marra Turra
+* Gabriel Reis Santos Cardoso
+* Marcos Vinicius dos Santos Pereira
+* Felipe Giannetti Fontenelle
+* Luis Felipe Santos Attie
+* Joao Camilo Aguiar de Freitas Santos
+* Antonio Augusto Vilela Campos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
