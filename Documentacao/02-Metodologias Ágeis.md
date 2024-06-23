@@ -14,11 +14,6 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 - Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
 
 
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
-
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
