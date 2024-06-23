@@ -8,9 +8,7 @@ Fazer a conexão bluetooth entre esp32-esp32 e esp32-smartphone para a ativaçã
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo do trabalho é o controle dos 2 robôs a partir de controladores remotos conectados via bluetooth, a fim de comandá-los para uma disputa de estourar balão. Cada robôs é controlado por dispositivos diferentes, um pelo smartphone e o outro pelo controle arcade.
  
 ## Público-Alvo
 
