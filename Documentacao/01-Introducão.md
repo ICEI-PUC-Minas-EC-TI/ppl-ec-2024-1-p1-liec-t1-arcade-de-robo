@@ -4,7 +4,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Fazer a conexão bluetooth entre esp32-esp32 e esp32-smartphone para a ativação de componentes nos robôs montados, a fim de transformá-los em robôs controlados por humanos.
 
 ## Objetivos
 
