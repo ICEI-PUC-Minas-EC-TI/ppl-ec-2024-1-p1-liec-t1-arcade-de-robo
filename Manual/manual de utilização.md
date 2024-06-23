@@ -1,4 +1,4 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do projeto estiver disponível, deverá complementar com as instruções de utilização. Descreva como configurar o hardware/software e informações importantes para executar o projeto.
+Conecte os dispositivos à uma fonte de eletricidade(seja pilha, carregador portátil ou porta usb), automaticamente o controle arcade irá conectar a um dos robos no qual foi configurado para conectar. Já para o outro robô, conecte o smartphone no bluetooth dele, entre no aplicativo do app inventor e conecte novamente. Após isso os robôs já estarão prontos para serem comandados.
