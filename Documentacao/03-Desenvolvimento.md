@@ -2,7 +2,15 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- 3 Esp's 32 
+- 2 kits chassis 2wd
+- 2 ponte h dupla l298n
+- 2 micro servo 9g
+- Cabos jumpers femea-femea
+- Cabos jumpers macho-femea
+- Resistores de 560Ω
+- Kit joystick arcade
+- 1 protoboard
 
 # Desenvolvimento
 
