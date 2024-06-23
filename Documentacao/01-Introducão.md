@@ -14,4 +14,4 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+O público-alvo do projeto são crianças e adolescentes que se interessam por disputas com dispositivos eletronicos físicos.
