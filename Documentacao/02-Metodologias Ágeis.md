@@ -3,7 +3,7 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nosso grupo se encontrou na biblioteca da PUC Minas para o desenvolvimento do trabalho, sempre aproveitando das ideias de cada um para a colaboração de um trabalho melhor desenvolvido e mais bem planejado. Todos os integrantes trabalharam de forma ativa no trabalho. As ferramentas usadas no trabalho foram Arduino IDE(para o desenvolvimento dos algoritmos para os dispositivos desenvolvidos) e o App Inventor(utilizado para o desenvolvimento do aplicativo de smartphone para conexão bluetooth). 
 
 ### Divisão de Papéis
 
